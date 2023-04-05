@@ -22,8 +22,15 @@
   font-size:30px;
 }
 
-.blog-box{
-  width:840px;
-  display:flex;
+.main{
+  display:block;
   justify-content:center;
+
+}
+
+.blog-box{
+  padding: 50px 0 30px 0;
+  width:840px;
+  border-bottom: solid #acabab;
+  margin:0 auto;
 }
